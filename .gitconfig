@@ -1,0 +1,6 @@
+[user]
+	email = jacksdiez@gmail.com
+	name = Jack
+	editor = nano
+[credential]
+	helper = store
