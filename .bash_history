@@ -55,3 +55,70 @@ cd /home/dammie
 ls
 mv /home/dammie/backup_db1.zip.gpg /opt/odoo/dumps/
 exit 
+ls
+cd dumps
+ls
+cd
+ls
+cd odoo14
+ls
+ls -la
+cd odoo
+ls
+ls -la
+cd ..
+ls
+cd
+ls
+cd
+ls
+ls -la
+more .gitconfig
+git config --global credential.helper store
+more .gitconfig
+ls -la
+nano .gitignore
+cat .gitignore
+git status
+git add .
+git status
+git commit -am "Subiendo la database encriptada"
+git log
+pwd
+ls
+git push origin master
+ls -la
+git push origin master
+git branch
+git push main master
+git push origin main
+git log
+git push origin main
+wget --post-data 'master_pwd=123456&name=tabernademoe1backup_format=zip' -O ./backup_db1.zip http://localhost:8069/web/database/backup
+sudo su dammie
+exit
+ls
+cd odoo
+cd opt
+cd /opt/odoo
+ls
+cd dumps
+ls -la
+rm backup_db1.zip.gpg 
+ls -la
+cd
+exit
+ls
+clear
+ls
+mv backup_db1.zip.gpg
+clear
+ls
+mv backup_db1.zip.gpg /opt/odoo/dumps
+/opt/odoo
+ls
+cd /opt/odoo
+ls
+cd
+mv /home/dammie/backup_db1.zip.gpg /opt/odoo/dumps
+exit
