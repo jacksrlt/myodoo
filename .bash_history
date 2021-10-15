@@ -122,3 +122,30 @@ ls
 cd
 mv /home/dammie/backup_db1.zip.gpg /opt/odoo/dumps
 exit
+ls
+clear
+cd /opt/odoo/dumps
+ls
+cd
+ls
+ls -la
+clear
+ls
+cd dumps
+ls
+cd ..
+ls
+ls -la
+git add .
+git commit -am "Taberna de Moe2"
+git push
+git remote add origin main https://github.com/jacksrlt/myodoo.git
+git log
+ls
+cd dumps
+ls
+cd ..
+ls
+cd
+ls
+exit
